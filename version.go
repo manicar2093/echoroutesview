@@ -1,3 +1,3 @@
-package <project_name>
+package echoroutesview
 
 const version = "0.0.0"
