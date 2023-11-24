@@ -1,5 +1,7 @@
 # Echo Routes View
 
+![echoroutesview](gopher_small.png "Echo Routes View")
+
 Echo Routes View renders an HTML template where all routes are shown. This makes easier to know which endpoints out echo instance contains.
 
 ## How to use
